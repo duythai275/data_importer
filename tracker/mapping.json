@@ -1,18 +1,18 @@
 {
-    "program": "",
-    "trackedEntityType": "",
-    "orgUnit": "",
+    "program": "<UID>",
+    "trackedEntityType": "<UID>",
+    "orgUnit": "Location",
     "attributes": {
-        "BfkIayM14MF": "",
-        "UpxiqwM8BTC": ""
+        "BfkIayM14MF": "First name",
+        "UpxiqwM8BTC": "Last name"
     },
-    "enrollementDate": "",
-    "incidentDate": "",
+    "enrollementDate": "Date entered - Enrollment and incident date",
+    "incidentDate": "Date entered - Enrollment and incident date",
     "event_WlWJt4lVSWw": {
-        "programStage": "",
-        "eventDate": "",
+        "programStage": "WlWJt4lVSWw",
+        "eventDate": "Test date",
         "dataValues": {
-            "dEvMi21KHHh": ""
+            "dEvMi21KHHh": "test result"
         }
     }
 }
